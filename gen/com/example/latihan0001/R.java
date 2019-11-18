@@ -24,24 +24,33 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080014;
+        public static final int action_settings=0x7f08001d;
         public static final int btsimpan=0x7f08000a;
-        public static final int bttambah=0x7f08000f;
-        public static final int email=0x7f080012;
+        public static final int bttambah=0x7f080010;
+        public static final int email=0x7f08001a;
         public static final int etaddress=0x7f080003;
         public static final int etdob=0x7f080009;
         public static final int etemail=0x7f080005;
         public static final int etname=0x7f080001;
         public static final int etphone=0x7f080007;
-        public static final int list=0x7f080010;
-        public static final int name=0x7f080011;
-        public static final int phone=0x7f080013;
+        public static final int fragment_container=0x7f08000f;
+        public static final int list=0x7f080011;
+        public static final int lv1=0x7f080012;
+        public static final int lvoutbox=0x7f080015;
+        public static final int name=0x7f080019;
+        public static final int phone=0x7f08001b;
+        public static final int tv1=0x7f080013;
+        public static final int tv2=0x7f080014;
+        public static final int tv3=0x7f08001c;
         public static final int tvaddress=0x7f080002;
         public static final int tvaddressl=0x7f08000b;
+        public static final int tvcontent=0x7f080017;
+        public static final int tvcreat=0x7f080018;
         public static final int tvdob=0x7f080008;
         public static final int tvdobl=0x7f08000e;
         public static final int tvemail=0x7f080004;
         public static final int tvemaill=0x7f08000c;
+        public static final int tvfrom=0x7f080016;
         public static final int tvname=0x7f080000;
         public static final int tvphone=0x7f080006;
         public static final int tvphonel=0x7f08000d;
@@ -49,8 +58,13 @@ public final class R {
     public static final class layout {
         public static final int activity_add_contact=0x7f030000;
         public static final int activity_contact_detail=0x7f030001;
-        public static final int activity_main=0x7f030002;
-        public static final int list_item=0x7f030003;
+        public static final int activity_fragment=0x7f030002;
+        public static final int activity_main=0x7f030003;
+        public static final int fragment_inbox=0x7f030004;
+        public static final int fragment_outbox=0x7f030005;
+        public static final int list_inbox=0x7f030006;
+        public static final int list_item=0x7f030007;
+        public static final int list_outbox=0x7f030008;
     }
     public static final class menu {
         public static final int main=0x7f070000;
